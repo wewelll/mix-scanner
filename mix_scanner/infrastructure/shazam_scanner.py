@@ -11,7 +11,7 @@ class ShazamScannerParameters:
 
 
 default_shazam_scanner_parameters = ShazamScannerParameters(
-    scan_every=60 * 1000,  # 1 minute
+    scan_every=30 * 1000,  # 30 seconds
     scan_for=5 * 1000,  # 5 seconds
 )
 
