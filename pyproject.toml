@@ -10,6 +10,7 @@ packages = [{include = "mix_scanner"}]
 python = "^3.11"
 shazamio = "^0.3.1.1"
 pydub = "^0.25.1"
+dash = "^2.9.3"
 
 
 [tool.poetry.group.dev.dependencies]
